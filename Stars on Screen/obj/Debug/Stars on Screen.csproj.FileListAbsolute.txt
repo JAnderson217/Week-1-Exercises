@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\obj\Debug\Stars on Screen.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\obj\Debug\Stars on Screen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\obj\Debug\Stars on Screen.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\bin\Debug\Stars on Screen.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\bin\Debug\Stars on Screen.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\bin\Debug\Stars on Screen.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\obj\Debug\Stars on Screen.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Stars on Screen\obj\Debug\Stars on Screen.pdb

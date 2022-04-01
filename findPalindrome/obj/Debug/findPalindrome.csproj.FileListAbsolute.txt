@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\bin\Debug\findPalindrome.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\bin\Debug\findPalindrome.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\bin\Debug\findPalindrome.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\obj\Debug\findPalindrome.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\obj\Debug\findPalindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\obj\Debug\findPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\obj\Debug\findPalindrome.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\findPalindrome\obj\Debug\findPalindrome.pdb

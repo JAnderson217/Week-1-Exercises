@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\bin\Debug\Longest Sequence.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\bin\Debug\Longest Sequence.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\bin\Debug\Longest Sequence.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\obj\Debug\Longest Sequence.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\obj\Debug\Longest Sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\obj\Debug\Longest Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\obj\Debug\Longest Sequence.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Longest Sequence\obj\Debug\Longest Sequence.pdb

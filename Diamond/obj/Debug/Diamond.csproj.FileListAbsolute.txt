@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\bin\Debug\Diamond.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\obj\Debug\Diamond.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Diamond\obj\Debug\Diamond.pdb

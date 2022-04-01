@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\obj\Debug\Anagrams.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\obj\Debug\Anagrams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\bin\Debug\Anagrams.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\bin\Debug\Anagrams.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\obj\Debug\Anagrams.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\Anagrams\obj\Debug\Anagrams.pdb
