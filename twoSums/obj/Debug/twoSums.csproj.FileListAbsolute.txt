@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\obj\Debug\twoSums.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\obj\Debug\twoSums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\obj\Debug\twoSums.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\bin\Debug\twoSums.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\bin\Debug\twoSums.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\bin\Debug\twoSums.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\obj\Debug\twoSums.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\twoSums\obj\Debug\twoSums.pdb

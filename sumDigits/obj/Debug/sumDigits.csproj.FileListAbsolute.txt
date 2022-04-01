@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\bin\Debug\sumDigits.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\bin\Debug\sumDigits.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\bin\Debug\sumDigits.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\obj\Debug\sumDigits.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\obj\Debug\sumDigits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\obj\Debug\sumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\obj\Debug\sumDigits.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\sumDigits\obj\Debug\sumDigits.pdb

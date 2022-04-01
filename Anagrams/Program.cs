@@ -15,7 +15,7 @@ namespace Anagrams
             //sort each word and compare, if equal then anagram - alternative way would be to check length, convert to char array and compare each char
             foreach (string word in words)
             {
-                if ((String.Concat(word.OrderBy(c => c))) == (String.Concat(anagram.OrderBy(c => c))))
+                if (String.Concat(word.OrderBy(c => c)) == String.Concat(anagram.OrderBy(c => c)))
                 {
                     Console.WriteLine($"{word} is an anagram of {anagram}");
                 }

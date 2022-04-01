@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\obj\Debug\nextPrime.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\obj\Debug\nextPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\obj\Debug\nextPrime.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\bin\Debug\nextPrime.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\bin\Debug\nextPrime.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\bin\Debug\nextPrime.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\obj\Debug\nextPrime.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\nextPrime\obj\Debug\nextPrime.pdb

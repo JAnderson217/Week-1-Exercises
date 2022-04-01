@@ -15,7 +15,7 @@ namespace Stars_on_Screen
             //populate array with num of spaces and stars
             for (int i = 1; i <= stars; i++)
             {
-                starsArray[i - 1] = string.Concat(Enumerable.Repeat(" ", (stars - i)));
+                starsArray[i - 1] = string.Concat(Enumerable.Repeat(" ", stars - i));
                 for (int j = 0; j < ((i * 2) - 1); j++)
                 {
                     starsArray[i - 1] += "*";
