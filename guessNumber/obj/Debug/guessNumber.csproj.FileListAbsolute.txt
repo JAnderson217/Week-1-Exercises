@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\bin\Debug\guessNumber.exe.config
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\bin\Debug\guessNumber.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\bin\Debug\guessNumber.pdb
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\obj\Debug\guessNumber.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\obj\Debug\guessNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\obj\Debug\guessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\obj\Debug\guessNumber.exe
+C:\Users\Jack\source\repos\Week 1 Exercises\guessNumber\obj\Debug\guessNumber.pdb
